@@ -1,0 +1,11 @@
+# Output
+/Bin/
+
+# Visual Studio
+/.vs/
+/PiccoloVS/bin/
+/PiccoloVS/obj/
+*.csproj.user
+
+# Macos
+*.DS_Store

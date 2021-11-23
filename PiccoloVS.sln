@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiccoloVS", "PiccoloVS\PiccoloVS.csproj", "{33CB7524-6B33-49BD-993A-B5937BF5D864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33CB7524-6B33-49BD-993A-B5937BF5D864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33CB7524-6B33-49BD-993A-B5937BF5D864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33CB7524-6B33-49BD-993A-B5937BF5D864}.Debug|x86.ActiveCfg = Debug|x86
+		{33CB7524-6B33-49BD-993A-B5937BF5D864}.Debug|x86.Build.0 = Debug|x86
+		{33CB7524-6B33-49BD-993A-B5937BF5D864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33CB7524-6B33-49BD-993A-B5937BF5D864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33CB7524-6B33-49BD-993A-B5937BF5D864}.Release|x86.ActiveCfg = Release|x86
+		{33CB7524-6B33-49BD-993A-B5937BF5D864}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFF163E8-96D8-4972-AC1E-AE98FC797C0B}
+	EndGlobalSection
+EndGlobal
